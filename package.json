@@ -1,0 +1,14 @@
+{
+  "name": "enroutepoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "chimp --watch"
+  },
+  "author": "Diego Espinosa",
+  "license": "ISC",
+  "dependencies": {
+    "chimp": "^0.51.1"
+  }
+}
